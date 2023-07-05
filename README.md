@@ -1,6 +1,6 @@
  
 ## Code for Efficient Optimization with Higher-Order Ising Machines
-This repo contains the code used to produce the results in Efficient Optimization with Higher-Order Ising Machines [1].
+This repo contains the code used to produce the results in [Efficient Optimization with Higher-Order Ising Machines](https://arxiv.org/abs/2212.03426) [1].
 
 [1] Bybee, C., Kleyko, D., Nikonov, D. E., Khosrowshahi, A., Olshausen, B. A., & Sommer, F. T. (2022). Efficient Optimization with Higher-Order Ising Machines. arXiv preprint arXiv:2212.03426.
 
