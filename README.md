@@ -1,14 +1,19 @@
  
 ## Code for Efficient Optimization with Higher-Order Ising Machines
-This repo contains the code used to produce the results in [Efficient Optimization with Higher-Order Ising Machines](https://arxiv.org/abs/2212.03426) [1].
+## Update
 
-[1] Bybee, C., Kleyko, D., Nikonov, D. E., Khosrowshahi, A., Olshausen, B. A., & Sommer, F. T. (2022). Efficient Optimization with Higher-Order Ising Machines. arXiv preprint arXiv:2212.03426.
+This repo contains the code used to produce the results in [Efficient Optimization with Higher-Order Ising Machines](https://www.nature.com/articles/s41467-023-41214-9) [1].
+
+[1] Bybee, C., Kleyko, D., Nikonov, D. E., Khosrowshahi, A., Olshausen, B. A., & Sommer, F. T. (2023). Efficient optimization with higher-order ising machines. Nature Communications, 14(1), 6033.
+
+### Previous version
+The ARXIV version can be found [here](https://arxiv.org/abs/2212.03426).
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these steps.
 
 ### Installation
 
